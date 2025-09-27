@@ -20,7 +20,6 @@ pipeline {
         stage('Final Stage') {
             steps {
                 echo 'sucessfully build'
- Jenkins Pipeline'
             }
         }
 
